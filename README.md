@@ -1,0 +1,2 @@
+# QuadraticEq
+Quandratic Equation Solver
